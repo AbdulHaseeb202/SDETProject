@@ -4,4 +4,6 @@ Seeing the conflict by editing the master
 
 fixing the bug1
 fixing the bug2
+Change WI3 for rebase
+change in master by teammate for cr2.
 
