@@ -1,2 +1,3 @@
 New file added 
-fixing the bug
+fixing the bug1
+fixing the bug2
