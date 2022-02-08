@@ -7,3 +7,4 @@ fixing the bug2
 Change WI3 for rebase
 change in master by teammate for cr2.
 Change by teammate on remote master
+change for checking rebase with conflict
