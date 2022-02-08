@@ -4,3 +4,4 @@ Change2 – commit with message as “Change2 in File1 "
 git diff
 git stash 
 change is added to test normal push to remote repository
+change is added to see the fetch command effect by teammate
